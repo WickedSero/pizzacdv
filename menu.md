@@ -15,3 +15,10 @@
 | 4  | Campione   | ciasto, sos pomidorowy, ser, szynka, kabanosy, boczek wędzony, salami, oregano       | 25   |
 | 5  | Decoro     | ciasto, sos pomidorowy, ser, szynka, pieczarki, papryka konserwowa, czosnek, oregano | 25   |
 | 6  | Napoletana | ciasto, sos pomidorowy, ser, salami, oliwki zielone, papryczki jalapenos, oregano    | 25   |
+
+## Napoje:
+| LP | Nazwa | Cena |
+|----|-------|------|
+| 1  | Woda  | 5    |
+| 2  | Sok   | 5    |
+| 3  | Piwo  | 5    |
