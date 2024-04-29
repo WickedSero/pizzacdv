@@ -1,4 +1,5 @@
 # Menu:
+
 ![zdjęcie przystawek](/starter.jpg)
 ## Przystawki:
 | LP | Nazwa                        | Cena |
@@ -7,6 +8,7 @@
 | 2  | Parówki w cieście francuskim | 20   |
 | 3  | Bruschetta                   | 16   |
 
+![zdjęcie pizzy](/pizza.jpg)
 ## Pizza:
 | LP | Nazwa      | Opis                                                                                 | Cena |
 |----|------------|--------------------------------------------------------------------------------------|------|
@@ -17,6 +19,7 @@
 | 5  | Decoro     | ciasto, sos pomidorowy, ser, szynka, pieczarki, papryka konserwowa, czosnek, oregano | 25   |
 | 6  | Napoletana | ciasto, sos pomidorowy, ser, salami, oliwki zielone, papryczki jalapenos, oregano    | 25   |
 
+![zdjęcie napoje](/napoje.jpg)
 ## Napoje:
 | LP | Nazwa | Cena |
 |----|-------|------|
@@ -24,6 +27,7 @@
 | 2  | Sok   | 5    |
 | 3  | Piwo  | 5    |
 
+![zdjęcie desery](/deser.jpg)
 ## Desery:
 | LP | Nazwa               | Opis                                                                                                                   | Cena |
 |----|---------------------|------------------------------------------------------------------------------------------------------------------------|------|
