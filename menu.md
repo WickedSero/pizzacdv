@@ -22,3 +22,9 @@
 | 1  | Woda  | 5    |
 | 2  | Sok   | 5    |
 | 3  | Piwo  | 5    |
+
+## Desery:
+| LP | Nazwa               | Opis                                                                                                                   | Cena |
+|----|---------------------|------------------------------------------------------------------------------------------------------------------------|------|
+| 1  | Sernik              | Tradycyjny sernik z nutą cytryny na chrupiącym spodzie, udekorowany puree mandarynkowym, cukrem pudrem i liściem mięty | 15   |
+| 2  | Fondant Czekoladowy | Czekoladowe ciasto z płynną czekoladą wewnątrz, udekorowane puree mandarynkowym, cukrem pudrem i liściem mięty.        | 15   |
