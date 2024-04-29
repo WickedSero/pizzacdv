@@ -6,7 +6,7 @@
 | 2  | Parówki w cieście francuskim | 20   |
 | 3  | Bruschetta                   | 16   |
 
-# Pizza:
+## Pizza:
 | LP | Nazwa      | Opis                                                                                 | Cena |
 |----|------------|--------------------------------------------------------------------------------------|------|
 | 1  | Margherita | ciasto, sos pomidorowy, ser, oregano                                                 | 20   |
