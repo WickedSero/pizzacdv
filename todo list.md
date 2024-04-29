@@ -14,4 +14,3 @@ git status
 git add
 git commit
 ```
-@WickedSero dobra robota
