@@ -1,7 +1,7 @@
 # Lista pracowników:
 ## Kierownictwo:
 1. Jacek Poważny
-2. Krystyna Lepsza
+~~ 2. Krystyna Lepsza ~~
    
 ## Kuchnia:
 1. Andrzej Kowalski
