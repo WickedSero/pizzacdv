@@ -1,4 +1,5 @@
 # Menu:
+![zdjęcie przystawek](/assets/images/starter.jpg)
 ## Przystawki:
 | LP | Nazwa                        | Cena |
 |----|------------------------------|------|
