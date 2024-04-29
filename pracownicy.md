@@ -7,7 +7,7 @@
 ## Kuchnia:
 1. Andrzej Kowalski
 2. Sławomir Nowak
-3. Krzysztof Jarzyna
+3. ~~Krzysztof Jarzyna~~
 
 ## Sala:
 1. Monika Nowak
